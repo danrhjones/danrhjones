@@ -4,4 +4,4 @@
 
 Hi, I'm Dan, a tester from the UK, currently working [@EqualExperts](https://github.com/EqualExperts)
 
-Those awesome cards at the top are created by [anuraghazra](https://github.com/anuraghazra/github-readme-stats). 
+<!-- Those awesome cards at the top are created by [anuraghazra](https://github.com/anuraghazra/github-readme-stats).  -->
